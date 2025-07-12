@@ -28,7 +28,7 @@
 | Project | Live Demo | GitHub |
 |--------|-----------|--------|
 | 🎮 Rock Paper Scissors | [Live](https://deeksha765.github.io/rock-paper-scissor/) | [Code](https://github.com/Deeksha765/rock-paper-scissor) |
-| ❌⭕ Tic Tac Toe | [live](https://deeksha765.github.io/Tic-Tac-Toe/) | [code](https://github.com/Deeksha765/Tic-Tac-Toe) |
+| ❌⭕ Tic Tac Toe | [Live](https://deeksha765.github.io/Tic-Tac-Toe/) | [Code](https://github.com/Deeksha765/Tic-Tac-Toe) |
 | ⏰ Digital Clock | *Coming soon...* | *Coming soon...* |
 | 📝 To-Do App | *Coming soon...* | *Coming soon...* |
 
