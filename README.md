@@ -29,6 +29,7 @@
 |--------|-----------|--------|
 | 🎮 Rock Paper Scissors | [Live](https://deeksha765.github.io/rock-paper-scissor/) | [Code](https://github.com/Deeksha765/rock-paper-scissor) |
 | ❌⭕ Tic Tac Toe | [Live](https://deeksha765.github.io/Tic-Tac-Toe/) | [Code](https://github.com/Deeksha765/Tic-Tac-Toe) |
+|🔢🧮 Calculator | no live | [code] |
 | ⏰ Digital Clock | *Coming soon...* | *Coming soon...* |
 | 📝 To-Do App | *Coming soon...* | *Coming soon...* |
 
