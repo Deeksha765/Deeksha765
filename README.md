@@ -30,8 +30,8 @@
 | 🎮 Rock Paper Scissors | [Live](https://deeksha765.github.io/rock-paper-scissor/) | [Code](https://github.com/Deeksha765/rock-paper-scissor) |
 | ❌⭕ Tic Tac Toe | [Live](https://deeksha765.github.io/Tic-Tac-Toe/) | [Code](https://github.com/Deeksha765/Tic-Tac-Toe) |
 |🔢🧮 Calculator | no live | [Code](https://github.com/Deeksha765/Calculator-using-python) |
-|🐍 Snake Game | no live | [code]()|
-|Guessing game | no live | [code]()|
+|🐍 Snake Game | no live | [Code](https://github.com/Deeksha765/Snake-game-using-python)|
+|Guessing game | no live | [Code](https://github.com/Deeksha765/Guessing-game-using-python)|
 | ⏰ Digital Clock | *Coming soon...* | *Coming soon...* |
 | 📝 To-Do App | *Coming soon...* | *Coming soon...* |
 
